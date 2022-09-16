@@ -69,7 +69,7 @@ devices = {
     "STM32L4xx": "ARM_CM4F",
     "STM32L5xx": "ARM_CM33/non_secure",
     "STM32WBxx": "ARM_CM4F",
-    "STM32WLxx": "ARM_CM4F"
+    "STM32WLxx": "ARM_CM3"
 }
 
 ################################## CONSTANTS ###################################
